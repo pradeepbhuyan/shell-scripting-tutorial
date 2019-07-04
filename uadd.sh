@@ -10,5 +10,6 @@
 echo "ecnter the user name $NM"
 read NM
 echo "`useradd -d /users/$NM $NM`"
+echo "changes done"
 
 # END #
