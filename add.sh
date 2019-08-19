@@ -5,7 +5,7 @@
 #Modified Date:
 #WebSite: https://arkit.co.in
 #Author: Ankam Ravi Kumar
-# START #
+# START of the Script #
 
 echo "addition of X+Y"
 echo "Enter X"
